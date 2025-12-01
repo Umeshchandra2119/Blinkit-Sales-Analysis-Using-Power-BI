@@ -8,7 +8,7 @@ An interactive Power BI dashboard built to analyze Blinkit’s sales performance
 
 Designed a Power BI dashboard to study sales, customer behavior, and category-wise revenue.
 
-Created key KPIs: Total Sales, Avg Sales, No. of Items, Avg Rating.
+**Created key KPIs:** Total Sales, Avg Sales, No. of Items, Avg Rating.
 
 Visualized insights by Item Type, Fat Content, Outlet Size, Location, and Establishment Year.
 
@@ -16,13 +16,13 @@ Visualized insights by Item Type, Fat Content, Outlet Size, Location, and Establ
 
 A structured retail dataset containing:
 
-Product details: Item Type, Fat Content, MRP, Visibility
+**Product details:** Item Type, Fat Content, MRP, Visibility
 
-Sales info: Quantity sold, Total Sales
+**Sales info:** Quantity sold, Total Sales
 
-Outlet details: Outlet Type, Size, Location Tier, Establishment Year
+**Outlet details:** Outlet Type, Size, Location Tier, Establishment Year
 
-Customer feedback: Ratings
+**Customer feedback:** Ratings
 
 This data helps understand which items sell more, which outlets perform better, and overall customer satisfaction.
 
@@ -30,22 +30,22 @@ This data helps understand which items sell more, which outlets perform better, 
 
 KPI Cards
 
-Donut Chart: Fat Content
+**Donut Chart:** Fat Content
 
-Bar Charts: Item Type
+**Bar Charts:** Item Type
 
-Line Chart: Outlet Establishment Year
+**Line Chart:** Outlet Establishment Year
 
-Pie Chart: Outlet Size
+**Pie Chart:** Outlet Size
 
-Table: Outlet Type
+**Table:** Outlet Type
 
-Filters: Item Type, Outlet Size, Location
+**Filters:** Item Type, Outlet Size, Location
 
 ### 📁 Files Included
 
-PPTX – Requirements + visual plan
+**PPTX** – Requirements + visual plan
 
-PDF – Final dashboard preview
+**PDF** – Final dashboard preview
 
-Dataset (Excel) — Complete sales & outlet dataset used for dashboard
+**Dataset** (Excel) — Complete sales & outlet dataset used for dashboard
